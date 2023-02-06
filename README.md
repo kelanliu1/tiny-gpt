@@ -1,4 +1,9 @@
-# tiny-gpt
-transformer decoder stack w/ self attention trained on kanye lyrics (raw text: https://raw.githubusercontent.com/gsurma/text_predictor/master/data/kanye/input.txt).
-trained with 16x32 tensor (batch size x block size), 9:1 training and validation set split
-for research purposes only ;)
+# Tiny-GPT
+
+A Transformer decoder stack with self-attention trained on Kanye lyrics. The raw text data used for training can be found at https://raw.githubusercontent.com/gsurma/text_predictor/master/data/kanye/input.txt.
+
+## Training Details
+The model was trained with a 16x32 tensor (batch size x block size) and a 9:1 training to validation set split.
+
+## Note
+This model is for research purposes only. Use at your own discretion.
