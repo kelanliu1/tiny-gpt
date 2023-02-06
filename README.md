@@ -7,3 +7,6 @@ The model was trained with a 16x32 tensor (batch size x block size) and a 9:1 tr
 
 ## Note
 This model is for research purposes only. Use at your own discretion.
+
+## Demo
+![](imgs/kanye.png)
